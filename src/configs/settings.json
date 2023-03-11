@@ -1,7 +1,7 @@
 {
-  "mongoURL": "a",
-  "clientID": "856574375367933953",
-  "token": "a",
-  "secret": "i_CEIhNOCXWYB7ogkkcVy_I0abqGcV9s",
-  "callbackURL": ""
+  "mongoURL": "mongodb+srv://DevTools92:DevTools92@cluster0.aihb8.mongodb.net/HelixfnnkdfgDB?retryWrites=true&w=majority",
+  "clientID": "1079448716819300422",
+  "token": "MTA3OTQ0ODcxNjgxOTMwMDQyMg.Gm51jl.jq7IRjFISDtpOoJlmT3NCI7PKbGa9X_sgrqkqE",
+  "secret": "5k5KKLRTyRSvxLrLGU2F1-ZyW6banDkA",
+  "callbackURL": "https://helixoo.github.io/discord-kod-sitesi/callback"
 }
